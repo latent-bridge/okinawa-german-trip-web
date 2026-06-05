@@ -1,0 +1,49 @@
+2:I[2972,["972","static/chunks/972-1afa549a2a07f6ee.js","919","static/chunks/app/spots/%5Bslug%5D/page-7747551b79182a0e.js"],""]
+4:I[4707,[],""]
+6:I[6423,[],""]
+3:Tc83,<h1>Churaumi-Aquarium｜Highlights, Preise und Anfahrt</h1>
+<p>Im Norden der Hauptinsel Okinawa, in einer Ecke des staatlichen Ocean Expo Park (Motobu), liegt das Okinawa Churaumi-Aquarium. Es bildet das Meer Okinawas in der Abfolge „vom Korallenriff über den Kuroshio-Strom bis in die Tiefsee&quot; nach. Wahrzeichen ist das riesige Becken „Kuroshio-Meer&quot;, eines der größten der Welt. Von Naha sind es zwar rund zwei Autostunden, doch das Aquarium gehört zu den festen Zielen einer Okinawa-Reise.</p>
+<h2>Highlights</h2>
+<p>Der größte Anziehungspunkt ist das Becken „Kuroshio-Meer&quot; mit etwa 7.500 m³ Wasser. Darin leben mehrere Walhaie und Mantarochen, die man durch eine hohe, riesige Acrylscheibe von unten betrachtet. Über den „Aqua Room&quot; sieht man das Becken direkt von unten, beim „Kuroshio Explorer&quot; von der Wasseroberfläche – dasselbe Becken aus verschiedenen Perspektiven.</p>
+<p>Nahe dem Eingang zeigt das „Korallenriff-Becken&quot; lebende Korallen unter natürlichem Licht, ohne Dach. Es folgen das „Becken der tropischen Fische&quot; mit den bunten Fischen der Gewässer Okinawas, der „Hai-Forscherraum&quot; mit Präparaten und Informationen sowie „Reise in die Tiefsee&quot; mit Tiefseebewohnern. Im Freien lädt das Berührungsbecken „Inō&quot; dazu ein, Seesterne und Seegurken anzufassen.</p>
+<h2>Basisinformationen</h2>
+<p>Die Preise (Stand Juni 2026): Wer ab 16 Uhr kommt, kann das vergünstigte „4-Uhr-Ticket&quot; nutzen.</p>
+<table>
+<thead>
+<tr>
+<th>Kategorie</th>
+<th>Normal</th>
+<th>„4-Uhr-Ticket&quot; (ab 16 Uhr)</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Erwachsene</td>
+<td>2.180 ¥</td>
+<td>1.510 ¥</td>
+</tr>
+<tr>
+<td>Oberschüler</td>
+<td>1.440 ¥</td>
+<td>1.000 ¥</td>
+</tr>
+<tr>
+<td>Grund-/Mittelschüler</td>
+<td>710 ¥</td>
+<td>500 ¥</td>
+</tr>
+<tr>
+<td>unter 6 Jahre</td>
+<td>kostenlos</td>
+<td>kostenlos</td>
+</tr>
+</tbody></table>
+<p>Geöffnet ist <strong>8:30–18:30 (letzter Einlass 17:30)</strong>; in der Hauptsaison (Golden Week, Sommerferien u. a.) teils bis 20:00. Ruhetag ist der erste Mittwoch im Dezember und der Folgetag (Stand Juni 2026). Für den Rundgang sollte man 2–3 Stunden einplanen. Tickets gibt es online im Voraus sowie als Kombiticket mit anderen Einrichtungen des Parks.</p>
+<h2>Anfahrt (ab Naha)</h2>
+<p>Am einfachsten kommt man mit dem Auto: über den Okinawa Expressway bis „Kyoda IC&quot;, dann rund 50 Minuten über die Nationalstraße 58 – insgesamt etwa zwei Stunden bzw. 95 km (<a href="../topics/mietwagen.md">zum Mietwagen-Guide</a>). Ohne Auto fährt der „Yanbaru Express Bus&quot; ab Flughafen Naha bzw. Bus-Terminal Naha bis „Kinen-kōen-mae&quot; (ca. 3 Std.). Geparkt wird kostenlos im Ocean Expo Park; dem Aquarium am nächsten liegt der Nordbereich.</p>
+<h2>Umgebung</h2>
+<p>Das Aquarium ist Teil des weitläufigen Ocean Expo Park. Im Park gibt es die kostenlose Delfinshow im „Okichan Theater&quot;, den frei zugänglichen „Emerald Beach&quot; und das Tropical Dream Center. Rund 5 Autominuten entfernt liegt die „Bise Fukugi-Allee&quot;, etwa 30 Minuten entfernt die Welterbe-Burgruine „Nakijin&quot;.</p>
+<p>Offizielle Website: churaumi.okinawa</p>
+5:["slug","churaumi-aquarium","d"]
+0:["4zPSvsTJBsgNcidzPm5oZ",[[["",{"children":["spots",{"children":[["slug","churaumi-aquarium","d"],{"children":["__PAGE__?{\"slug\":\"churaumi-aquarium\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["spots",{"children":[["slug","churaumi-aquarium","d"],{"children":["__PAGE__",{},[["$L1",["$","article",null,{"children":[["$","p",null,{"className":"back","children":["$","$L2",null,{"href":"/","children":"← Übersicht"}]}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]]}],null],null],null]},[null,["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","spots","children","$5","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","spots","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/okinawa-german-trip-web/_next/static/css/fad820e9ea590f63.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"de","children":["$","body",null,{"children":[["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"container","children":["$","$L2",null,{"href":"/","children":"Okinawa Reiseinfos"}]}]}],["$","main",null,{"children":["$","div",null,{"className":"container","children":["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}]}],["$","footer",null,{"className":"site-footer","children":["$","div",null,{"className":"container","children":"Beispielseite · Inhalte ohne Gewähr, Stand siehe Artikel."}]}]]}]}]],null],null],["$L7",null]]]]
+7:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"Okinawa für deutschsprachige Reisende"}],["$","meta","3",{"name":"description","content":"Praktische Reiseinformationen zu Okinawa auf Deutsch (Beispielseite)."}]]
+1:null
